@@ -43,5 +43,5 @@ def directors_totals(nds)
     end
     hash.store(director_name, gross)
   end
-  puts hash
+  hash
 end 
